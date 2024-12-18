@@ -14,7 +14,9 @@ Việc tạo ra ứng dụng gia sư thường xuất phát từ mong muốn gi�
 * Cá Nhân Hóa Học Tập
 * Hỗ Trợ Tự Học
 # Tính mới, tính sáng tạo
-
+* Chức Năng Đánh Giá Gia Sư: Cho phép người dùng đánh giá và phản hồi về gia sư sau mỗi buổi học, từ đó giúp nâng cao chất lượng dịch vụ.
+* Hồ sơ Gia sư: Hiển thị thông tin chi tiết về gia sư bao gồm trình độ học vấn, kinh nghiệm, đánh giá và bình luận từ học sinh trước.
+* Lịch Học và Đặt Lịch: Học sinh có thể xem lịch làm việc của gia sư và đặt lịch học phù hợp.
 # Team members
 1. Trần Văn Khiên - 22014013
 2. Nguyễn Sỹ Đồng - 22010021
