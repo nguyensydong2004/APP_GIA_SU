@@ -3,7 +3,11 @@
 # Motivation-WHY
 
 # Mục tiêu
-
+Tiếp Cận Kiến Thức Dễ Dàng
+Chất Lượng Giảng Dạy
+Tương Tác Trực Tiếp
+Cá Nhân Hóa Học Tập
+Hỗ Trợ Tự Học
 # Tính mới, tính sáng tạo
 
 # Team members
