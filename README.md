@@ -22,3 +22,4 @@ Việc tạo ra ứng dụng gia sư thường xuất phát từ mong muốn gi�
 2. Nguyễn Sỹ Đồng - 22010021
 3. Nguyễn Huy Hoàng - 22010402
 4. Phạm Hùng Mạnh - 22010259
+5. Vũ Văn Chinh
