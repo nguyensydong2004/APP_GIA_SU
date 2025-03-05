@@ -1,22 +1,23 @@
 # Tên dự án
-Ứng dụng gia sư
+Ứng dụng Học Tập Trực Tuyến
 # Motivation-WHY
-Việc tạo ra ứng dụng gia sư thường xuất phát từ mong muốn giải quyết nhiều vấn đề hiện hữu trong hệ thống giáo dục truyền thống và tận dụng công nghệ để mang lại trải nghiệm học tập tốt hơn. Dưới đây là một số lý do chính:
-* Tăng Cường Khả Năng Tiếp Cận Giáo Dục
-* Cá Nhân Hóa Quá Trình Học Tập
-* Linh Hoạt Về Thời Gian Và Địa Điểm
-* Cải Thiện Chất Lượng Giáo Dục
-* Giảm Áp Lực Học Tập
+Nền tảng này cung cấp khóa học trực tuyến từ nhiều chuyên gia và giảng viên, giúp học viên tiếp cận kiến thức chất lượng cao theo phương thức linh hoạt và cá nhân hóa.
+# Động lực phát triển
+* Mở rộng khả năng tiếp cận giáo dục: Học viên có thể tham gia khóa học từ bất cứ đâu, không bị giới hạn bởi địa lý.
+* Cá nhân hóa trải nghiệm học tập: Hệ thống đề xuất khóa học dựa trên sở thích và mục tiêu của từng người học.
+* Linh hoạt về thời gian: Học viên có thể học theo lịch trình của riêng mình mà không phụ thuộc vào thời gian cố định.
+* Cải thiện chất lượng giảng dạy: Cung cấp nội dung từ các chuyên gia hàng đầu, đảm bảo kiến thức cập nhật và có tính ứng dụng cao.
+* Hỗ trợ học tập suốt đời: Khuyến khích việc học liên tục và phát triển kỹ năng trong suốt sự nghiệp.
 # Mục tiêu
-* Tiếp Cận Kiến Thức Dễ Dàng
-* Chất Lượng Giảng Dạy
-* Tương Tác Trực Tiếp
-* Cá Nhân Hóa Học Tập
-* Hỗ Trợ Tự Học
+* Cung cấp khóa học chất lượng cao từ nhiều lĩnh vực khác nhau.
+* Xây dựng hệ thống đánh giá và phản hồi giúp cải thiện nội dung giảng dạy.
+* Tăng cường tương tác giữa giảng viên và học viên thông qua bài tập, thảo luận, và dự án thực tế.
+* Hỗ trợ cá nhân hóa lộ trình học tập, giúp học viên tiến bộ theo tốc độ của riêng họ
 # Tính mới, tính sáng tạo
-* Chức Năng Đánh Giá Gia Sư: Cho phép người dùng đánh giá và phản hồi về gia sư sau mỗi buổi học, từ đó giúp nâng cao chất lượng dịch vụ.
-* Hồ sơ Gia sư: Hiển thị thông tin chi tiết về gia sư bao gồm trình độ học vấn, kinh nghiệm, đánh giá và bình luận từ học sinh trước.
-* Lịch Học và Đặt Lịch: Học sinh có thể xem lịch làm việc của gia sư và đặt lịch học phù hợp.
+* Hệ thống đăng khóa học cho gia sư: Gia sư có thể tạo và quản lý khóa học của riêng mình, bao gồm nội dung bài giảng, bài tập và tài liệu học tập.
+* Thống kê tiến trình học tập: Học viên có thể theo dõi tiến độ học tập của mình thông qua biểu đồ và báo cáo chi tiết về bài học đã hoàn thành, điểm số bài kiểm tra, và thời gian học.
+* Phản hồi từ gia sư: Gia sư có thể đánh giá sự tiến bộ của học viên, đưa ra nhận xét cá nhân hóa giúp cải thiện hiệu quả học tập.
+* Hệ thống đánh giá khóa học: Học viên có thể để lại phản hồi và xếp hạng sau khi hoàn thành khóa học, giúp duy trì chất lượng nội dung.
 # Team members
 1. Trần Văn Khiên - 22014013
 2. Nguyễn Sỹ Đồng - 22010021
